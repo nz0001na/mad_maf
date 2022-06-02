@@ -23,6 +23,6 @@ contact:
 
 # original codes sources:
 (1) PRNU: https://dde.binghamton.edu/download/camera_fingerprint/
-(2) Noiseprint: https://github.com/grip-unina/noiseprint
-(3) FBC: https://ojs.aaai.org/index.php/AAAI/article/view/5811
-(4) APL: https://github.com/cogentlabs/apl
+(2) Noiseprint ('Noiseprint: a CNN-based camera model fingerprint') : https://github.com/grip-unina/noiseprint
+(3) FBC ('Revisiting Bilinear Pooling: A Coding Perspective'): https://ojs.aaai.org/index.php/AAAI/article/view/5811
+(4) APL ('Adaptive Posterior Learning: few-shot learning with a surprise-based memory module'): https://github.com/cogentlabs/apl
