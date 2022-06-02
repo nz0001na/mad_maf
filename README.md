@@ -26,3 +26,5 @@ contact:
 (2) Noiseprint ('Noiseprint: a CNN-based camera model fingerprint') : https://github.com/grip-unina/noiseprint
 (3) FBC ('Revisiting Bilinear Pooling: A Coding Perspective'): https://ojs.aaai.org/index.php/AAAI/article/view/5811
 (4) APL ('Adaptive Posterior Learning: few-shot learning with a surprise-based memory module'): https://github.com/cogentlabs/apl
+
+If you use these codes, please cite their papers!
