@@ -14,7 +14,8 @@ contact:
 
 # 1. Introduction:
 
-
+# 2. Preprocessing: 
+  face detection and cropping: code (ref: https://github.com/Practical-CV/Facial-Landmarks-Detection-with-DLIB ) 
 
 
 # Bibtex:
