@@ -19,3 +19,10 @@ contact:
 
 # Bibtex:
 
+
+
+# original codes sources:
+(1) PRNU: https://dde.binghamton.edu/download/camera_fingerprint/
+(2) Noiseprint: https://github.com/grip-unina/noiseprint
+(3) FBC: https://ojs.aaai.org/index.php/AAAI/article/view/5811
+(4) APL: https://github.com/cogentlabs/apl
