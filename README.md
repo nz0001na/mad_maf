@@ -22,7 +22,7 @@ contact:
 
 
 
-# original codes sources:
+# Others:
 (1) PRNU: https://dde.binghamton.edu/download/camera_fingerprint/
 (2) Noiseprint ('Noiseprint: a CNN-based camera model fingerprint') : https://github.com/grip-unina/noiseprint
 (3) FBC ('Revisiting Bilinear Pooling: A Coding Perspective'): https://ojs.aaai.org/index.php/AAAI/article/view/5811
