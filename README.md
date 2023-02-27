@@ -12,10 +12,10 @@ This is the official repository of the paper: Fusion-based Few-Shot Morphing Att
 This is an implementation of few-shot learning based morphing attacks detection model, and is extended from binary detection to multiclass fingerprinting. The model aims at learning discriminative features which can be generalized to unseen morphing attack types from predefined presentation attacks. A large-scale face morphing database is collected, which contains 5 face subdatasets and 8 different morphing algorithms, to benchmark the proposed method.
 
 1. Face morphing attack detection (MAD): 
-![arch](fig/MAD_few_shot.pdf)
+![arch](fig/MAD_few_shot.png)
 
 2. Face morphing attack fingerprinting (MAF):
-![arch](fig/fingerprint.pdf)
+![arch](fig/fingerprint.png)
 
 
 # Mudules
