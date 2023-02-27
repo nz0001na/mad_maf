@@ -1,6 +1,8 @@
 # FBC-APL: A Camera Fingerprint based Morphing Detection and Fingerprinting Model
 This is the official repository of the paper: Fusion-based Few-Shot Morphing Attack Detection and Fingerprinting, including codes, data and pre-trained model.
 
+Stay tuned for the updating!!!
+
 ![arch](fig/pipeline.png)
 
 ### link:
