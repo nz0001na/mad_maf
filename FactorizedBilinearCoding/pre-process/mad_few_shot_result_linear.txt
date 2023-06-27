@@ -1,0 +1,18 @@
+A_set_1_shot
+  Accuracy = 0.8333
+  EER = 0.7071
+A_set_5_shot
+  Accuracy = 0.8750
+  EER = 0.2929
+B_set_1_shot
+  Accuracy = 0.3942
+  EER = 0.5000
+B_set_5_shot
+  Accuracy = 0.7019
+  EER = 0.2789
+C_set_1_shot
+  Accuracy = 0.4876
+  EER = 0.6188
+C_set_5_shot
+  Accuracy = 0.6139
+  EER = 0.4505
